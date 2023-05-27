@@ -1,0 +1,202 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.row1 {
+    height: 60px;
+    color:white;
+    background-color:black; 
+}
+
+.col {
+    float: left;
+    height: 100%;
+
+}
+
+.en{
+    font-family: sans-serif;
+}
+
+.col11 {
+    width: 113px;
+    margin-left: 15px;
+    padding: 13px 8px;
+}
+
+.col12 {
+    width: 90px;
+    margin-left: 6px;
+    padding: 10px 4px;
+}
+
+.col13 {
+    width: 1208px;
+    margin-left: 6px;
+    padding:6px 8px;
+}
+
+.input1{
+    width: 1190px;
+    height: 48px;
+}
+
+.col14 {
+    width: 74px;
+    padding: 18px 22px;
+}
+
+.col15 {
+    width: 131px;
+    margin-left: 6px;
+    padding: 10px 8px;
+}
+
+.col16 {
+    width: 77px;
+    margin-left: 6px;
+    padding: 9px 3px;
+}
+
+.col17 {
+    width: 84px;
+    margin-left: 6px;
+    padding:15px 25px;
+}
+
+.row2 {
+    height: 39px;
+    background-color: #232F3E;
+    color:white;
+}
+
+.col21 {
+    width: 61px;
+    margin-left: 15px;
+    font-family: sans-serif;
+    line-height: 31.5px;
+}
+
+.col22 {
+    width: 108px;
+    line-height: 31.5px;
+}
+
+.col23 {
+    width: 135px;
+    line-height: 31.5px;
+}
+
+.col24 {
+    width: 75px;
+    line-height: 31.5px;
+}
+
+.col25 {
+    width: 87px;
+    line-height: 31.5px;
+}
+
+.col26 {
+    width: 47px;
+    line-height: 31.5px;
+}
+
+.col27 {
+    width: 198px;
+    float: right;
+    line-height: 31.5px;
+}
+
+.row3 {
+    height: 302px;
+    margin: auto;
+    width:1500px;
+    border:1px solid black;
+}
+
+.row4 {
+    height: 420px;
+    margin: auto;
+    width:1500px;
+    padding:20px 8px 15px 8px;
+    border:2px solid black;
+}
+
+.col41 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col42 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col43 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.col44 {
+    width:370px;
+    height:100%;
+    margin:auto;
+    padding:10px;
+}
+
+.row5 {
+    height: 282px;
+    margin: auto;
+    width:1500px;
+    padding:10px 20px;
+    border:2px solid black;
+}
+.row-six{
+    background-color: #232F3E;
+    padding: 25px 0px 0px 0px
+ }  
+ 
+.row6 {
+    height: 450px;
+    width:1000px;
+    margin:auto;
+    background-color: #232F3E;
+    color:white;
+}
+
+.col61{
+    height: 450px;
+    width:249px;
+    padding: 0px 10px;
+}
+.col62{
+    height: 450px;
+    width:249px;
+    padding: 0px 10px;
+}
+.col63{
+    height: 450px;
+    width:250px;
+    padding: 0px 10px;
+}
+.col64{
+    height: 450px;
+    width:250px;
+    padding: 0px 10px;
+}
+
+
+
+
+
